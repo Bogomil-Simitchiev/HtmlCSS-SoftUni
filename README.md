@@ -2,4 +2,4 @@
 
 All HtmlCSS exercises
 
-worked on new htmlCSS websites
+SoftUni HtmlCSS Course
