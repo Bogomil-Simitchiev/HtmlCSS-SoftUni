@@ -1,0 +1,31 @@
+ul{
+    display: inline-block;
+}
+li{
+    list-style: none;
+    display: inline-block;
+
+}
+a{
+    border-radius: 50%;
+    background-color: aqua;
+    font-size: 50px;
+}
+i{
+    padding: 10px;
+}
+#fac:hover{
+    color: blue;
+}
+#twit:hover{
+    color:lightskyblue;
+}
+#gog:hover{
+    color:red;
+}
+#lin:hover{
+    color:lightslategray;
+}
+#inst:hover{
+    color:grey;
+}
