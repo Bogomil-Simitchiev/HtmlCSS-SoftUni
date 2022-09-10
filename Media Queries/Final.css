@@ -1,0 +1,11 @@
+th{
+    background-color: lightslategray;
+    color: white;
+}
+@media screen and (max-width: 660px)
+	{
+        table, thead, tbody, th, td, tr { 
+            display: block; 
+        }
+    }
+	
