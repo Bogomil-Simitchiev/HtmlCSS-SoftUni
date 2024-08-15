@@ -1,5 +1,3 @@
 # HtmlCSS-SoftUni
 
-All HtmlCSS exercises
-
-SoftUni HtmlCSS Course
+SoftUni course for HTML and CSS
